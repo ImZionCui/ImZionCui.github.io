@@ -51,7 +51,7 @@ Research Interests：
 
 ### 专利
 ---
-- 吴海博, 朱执祥, `崔志昂`, 张丽丽, 李菁菁. 一种区块链网络数据传输方法及系统. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AA)
+- 吴海博, 朱执祥, `崔志昂`, 张丽丽, 李菁菁. 一种区块链网络数据传输方法及系统. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IDE4DBABIIA9FDE9IBB8GCACHHA9HFG9CAABDHA9BCCBDGA)
 
 
 <span class='anchor' id='-ryjx'></span>
@@ -69,6 +69,7 @@ Research Interests：
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 
