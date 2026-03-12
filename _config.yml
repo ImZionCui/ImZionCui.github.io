@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "崔志昂"
-description              : "AI应用开发"
+title                    : "Zion Cui"
+description              : "Focusing on AI for Networking and AI agent"
 repository               : "ImZionCui/ImZionCui.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "崔志昂"
+  name             : "Zion Cui"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "中国科学院大学"
-  location         : "北京"
+  bio              : "University of Chinese Academy of Sciences (UCAS)"
+  location         : "Beijing"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
@@ -161,4 +161,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
